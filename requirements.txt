@@ -1,0 +1,3 @@
+# YottaFlex Data Pipeline Framework
+# Lightweight dependencies: purely standard-library core with pytest for test execution
+pytest>=8.0.0

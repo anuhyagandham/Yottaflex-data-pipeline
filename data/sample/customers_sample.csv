@@ -1,0 +1,51 @@
+customer_id,customer_name,email,city,created_at,loyalty_tier
+CUST-0001,Bob Smith,bob.smith0@example.com,Chicago,2026-01-01T14:00:00+00:00,GOLD
+CUST-0002,Diana Williams,diana.williams1@example.com,San Francisco,2026-01-02T21:00:00+00:00,GOLD
+CUST-0003,Ian Johnson,ian.johnson2@example.com,Denver,2026-01-03T11:00:00+00:00,GOLD
+CUST-0004,Alice Johnson,alice.johnson3@example.com,New York,2026-01-04T14:00:00+00:00,GOLD
+CUST-0005,Ian Smith,ian.smith4@example.com,New York,2026-01-05T22:00:00+00:00,GOLD
+CUST-0006,Ian Miller,ian.miller5@example.com,New York,2026-01-06T18:00:00+00:00,GOLD
+CUST-0007,Julia Jones,julia.jones6@example.com,Seattle,2026-01-07T13:00:00+00:00,GOLD
+CUST-0008,George Garcia,george.garcia7@example.com,Chicago,2026-01-08T13:00:00+00:00,GOLD
+CUST-0009,Diana Garcia,diana.garcia8@example.com,San Francisco,2026-01-09T12:00:00+00:00,GOLD
+CUST-0010,George Johnson,george.johnson9@example.com,Boston,2026-01-10T16:00:00+00:00,GOLD
+CUST-0011,Julia Jones,julia.jones10@example.com,Seattle,2026-01-11T22:00:00+00:00,GOLD
+CUST-0012,Hannah Rodriguez,hannah.rodriguez11@example.com,San Francisco,2026-01-12T17:00:00+00:00,GOLD
+CUST-0013,Bob Rodriguez,bob.rodriguez12@example.com,Chicago,2026-01-13T21:00:00+00:00,GOLD
+CUST-0014,Julia Garcia,julia.garcia13@example.com,New York,2026-01-14T22:00:00+00:00,GOLD
+CUST-0015,Bob Smith,bob.smith14@example.com,New York,2026-01-15T15:00:00+00:00,GOLD
+CUST-0016,Bob Brown,bob.brown15@example.com,San Francisco,2026-01-16T17:00:00+00:00,GOLD
+CUST-0017,Ethan Davis,ethan.davis16@example.com,Boston,2026-01-17T13:00:00+00:00,GOLD
+CUST-0018,Fiona Garcia,fiona.garcia17@example.com,New York,2026-01-18T21:00:00+00:00,GOLD
+CUST-0019,Ethan Johnson,ethan.johnson18@example.com,Austin,2026-01-19T19:00:00+00:00,GOLD
+CUST-0020,Diana Williams,diana.williams19@example.com,,2026-01-20T17:00:00+00:00,GOLD
+CUST-0021,Ethan Rodriguez,ethan.rodriguez20@example.com,New York,2026-01-21T21:00:00+00:00,GOLD
+CUST-0022,Fiona Smith,fiona.smith21@example.com,New York,2026-01-22T11:00:00+00:00,GOLD
+CUST-0023,Fiona Miller,fiona.miller22@example.com,Chicago,2026-01-23T12:00:00+00:00,GOLD
+CUST-0024,Diana Garcia,diana.garcia23@example.com,New York,2026-01-24T21:00:00+00:00,GOLD
+CUST-0025,Hannah Miller,hannah.miller24@example.com,,2026-01-25T13:00:00+00:00,GOLD
+CUST-0026,Ethan Williams,ethan.williams25@example.com,New York,2026-01-26T22:00:00+00:00,GOLD
+CUST-0027,Ian Rodriguez,ian.rodriguez26@example.com,Chicago,2026-01-27T22:00:00+00:00,GOLD
+CUST-0028,Julia Miller,julia.miller27@example.com,Denver,2026-01-28T16:00:00+00:00,GOLD
+CUST-0029,Diana Williams,diana.williams28@example.com,,2026-01-29T12:00:00+00:00,GOLD
+CUST-0030,Alice Johnson,alice.johnson29@example.com,Austin,2026-01-30T21:00:00+00:00,GOLD
+CUST-0031,Charlie Miller,charlie.miller30@example.com,San Francisco,2026-01-31T17:00:00+00:00,GOLD
+CUST-0032,George Davis,george.davis31@example.com,Chicago,2026-02-01T19:00:00+00:00,GOLD
+CUST-0033,Alice Johnson,alice.johnson32@example.com,Chicago,2026-02-02T21:00:00+00:00,GOLD
+CUST-0034,Fiona Johnson,fiona.johnson33@example.com,Chicago,2026-02-03T17:00:00+00:00,GOLD
+CUST-0035,Charlie Davis,charlie.davis34@example.com,Seattle,2026-02-04T22:00:00+00:00,GOLD
+CUST-0036,Ethan Rodriguez,ethan.rodriguez35@example.com,Austin,2026-02-05T19:00:00+00:00,GOLD
+CUST-0037,Bob Jones,bob.jones36@example.com,New York,2026-02-06T13:00:00+00:00,GOLD
+CUST-0038,Fiona Williams,fiona.williams37@example.com,Seattle,2026-02-07T20:00:00+00:00,GOLD
+CUST-0039,Fiona Davis,fiona.davis38@example.com,Seattle,2026-02-08T12:00:00+00:00,GOLD
+CUST-0040,Fiona Jones,fiona.jones39@example.com,New York,2026-02-09T11:00:00+00:00,GOLD
+CUST-0041,Diana Johnson,diana.johnson40@example.com,San Francisco,2026-02-10T22:00:00+00:00,GOLD
+CUST-0042,Hannah Johnson,hannah.johnson41@example.com,Austin,2026-02-11T13:00:00+00:00,GOLD
+CUST-0043,Hannah Rodriguez,hannah.rodriguez42@example.com,Austin,2026-02-12T15:00:00+00:00,GOLD
+CUST-0044,Ian Miller,ian.miller43@example.com,New York,2026-02-13T19:00:00+00:00,GOLD
+CUST-0045,Diana Jones,diana.jones44@example.com,Denver,2026-02-14T21:00:00+00:00,GOLD
+CUST-0001,Alice Smith Updated,alice.updated@example.com,Austin,2026-02-20T10:00:00+00:00,GOLD
+CUST-0096,Missing Email User,,Seattle,2026-01-01T10:00:00+00:00,GOLD
+CUST-0097,Bad Email User,not-an-email-at-all,Boston,2026-01-01T10:00:00+00:00,GOLD
+CUST-0098,Bad Timestamp User,bad.time@example.com,Denver,invalid-2026-99-99,GOLD
+CUST-0099,Malformed Line User,malformed@example.com,Miami,2026-01-01T10:00:00+00:00,EXTRA_FIELD_UNEXPECTED,ANOTHER_EXTRA

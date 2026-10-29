@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Large benchmark data & outputs (keep sample data tracked)
+data/benchmark/
+output/*.log
+output/*.json
+output/*.csv
+reports/*.json
+reports/*.html
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
